@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cldomenech
-- 👀 I’m interested in tech writing, UX writing and just plain old good writing
+- 👀 I’m interested in tech writing, UX writing and just plain old good writing.
 - 🌱 I’m currently learning how to use this GitHub thing.
 - 💞️ I’m looking to collaborate on Tech writing projects.
 - 📫 @ me!
